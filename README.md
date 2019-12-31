@@ -4,7 +4,7 @@ This notebook contains Python implementations for all the searching, hashing and
 
 I wrote them to better understand the algorithm flow and their related time complexities, as online implementations tended not to follow the given pseudocodes closely. I used them frequently to check against steps and answers during practice by printing the array in every loop and number of key comparisons or swaps. I hope they can be of help to whoever's reading this!
 
-### Implementations
+## Implementations
 
 - Sequential Search
 - Binary Search
@@ -15,3 +15,4 @@ I wrote them to better understand the algorithm flow and their related time comp
 - Merge Sort
 - Quick Sort
 - Heap Sort
+- Dijkstra's Algorithm (I did not implement the specific pseudocode learnt in the module; use it only for checking output!)
